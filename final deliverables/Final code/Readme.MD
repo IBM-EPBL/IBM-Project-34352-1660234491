@@ -21,5 +21,7 @@ Step 2: Setup Docker in your desktop.
 Step 3: Create docker image for your application and deploy it using IBM Container and Kubernetes Service.
 
 Our Application's Public URL : http://169.51.205.80:32357/
-USERNAME:test@domain
+
+
+USERNAME:test@domain.com
 Password:test1
